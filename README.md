@@ -1,4 +1,4 @@
-# PalindroneCheckerApp
+# PalindromeCheckerApp
 STEP
 Project: Palindrome Checker (Pointer Approach in Java)
 Objective
